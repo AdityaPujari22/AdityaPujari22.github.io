@@ -6,22 +6,22 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>L 108, Max Planck Institute for Biological Intelligence</p>
+    <p>Am Klopferspitz, 18</p>
+    <p>Planegg, Germany 82152</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-test biography
+# Hi!
 
-# Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I (he/him) am a PhD student in the [Active Sensing](https://www.bi.mpg.de/fenk) research group at the [Max Planck Institute for Biological Intelligence](https://www.bi.mpg.de/en). My work in [Dr. Lisa Fenk's](https://www.bi.mpg.de/2401722/fenk-page.html) group is broadly centered on mechanisms of distance estimation in _Drosophila melanogaster_, figuring out how flies use their newly discovered ability to [move their retinae](https://www.nature.com/articles/s41586-022-05317-5) to percieve depth during natural behaviours. Before starting my PhD, I completed the integrated BS-MS dual-degree program at Indian Institute of Science Education and Research [IISER](https://www.iiserpune.ac.in/) Pune, India. For my master's thesis, I worked on fruit fly escape behaviour with [Dr. Gwyneth Card](https://zuckermaninstitute.columbia.edu/gwyneth-card-phd) at Columbia University's Zuckerman Institute.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a neuroethologist, I have a lasting admiration for the richness in physiology and behaviour across nervous systems during natural behaviours. An interest in the "[Krogh-ian](https://en.wikipedia.org/wiki/Krogh%27s_principle)" approach has allowed to have a diverse background in neuroscience, from songbirds and fruit flys to in-silico cells. This broad background has made me particularly partial to invertebrates because they exhibit an enormous diversity of complex behaviours with relatively "simple" brains, making it easier to understand circuit dynamics. I have settled on working with fruit flies (_Drosophila melanogaster_) for my PhD since I have found them to be an excellent balance between accessibilitty (in terms of the extremely powerful genetic toolkit available) and novelty in brain architecture and behaviour.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time I enjoy solving puzzles, coding and tinkering with toy models, playing squash, and drinking freshly brewed coffee. I also follow motorsport and like reading non-fiction books.
