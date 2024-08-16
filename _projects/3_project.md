@@ -1,27 +1,19 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Studying BOS responses of anesthetized zebra finches
+description: May 2022 - December 2022
+img: assets/img/3.jpg
 importance: 3
-category: work
+category: Previous
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+_Supervisor: Dr. Raghav Rajan_
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Recordings in the songbird HVC (the nucleus necessary for song learning and production) and other areas have shown that neural activity when anaethetized birds were played back their own song (known as a BOS, Birds-Own-Song, response) is very similar to activity when the bird is producing song. I studied the encoding of introductory notes in zebra finch vocal nuclei through extracellular recordings during BOS responses, to understand how exactly INs might be produced through neural activity.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -78,4 +70,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->

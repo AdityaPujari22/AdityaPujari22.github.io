@@ -1,26 +1,19 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Independent learning of introductory notes in juvenile Zebra Finches
+description: December 2021 - August 2022
+img: assets/img/3.jpg
+importance: 4
+category: Previous
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+_Supervisor: Dr. Raghav Rajan_
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Zebra finch song is composed of motifs (groups of repeating vocalisations) and Introductory Notes (INs), which precede the song. Juvenile males learn a song from adult male conspecifics (tutors), and recent work from our lab has shown no correlation between the number and structure (the frequency distribution in the spectrogram of the note) of INs learnt between tutor-tutee pairs. Consequently, we hypothesised that independent neural populations are responsible for learning IN structure and number in the zebra finch brain. I tested this hypothesis by tutoring birds with songs having different IN properties and studying the vocalisations learnt. For this purpose, I designed and built a closed-loop system using an Arduino to detect perch-hopping behaviour by the bird, and a tablet display to provide audio and video playback of a singing adult male. You can read more about this setup [here](https://www.biorxiv.org/content/10.1101/2022.11.02.514933v1).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -77,4 +70,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
