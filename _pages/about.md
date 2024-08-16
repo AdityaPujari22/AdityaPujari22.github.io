@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# Hi!
+## Hi!
 
 I (he/him) am a PhD student in the [Active Sensing](https://www.bi.mpg.de/fenk) research group at the [Max Planck Institute for Biological Intelligence](https://www.bi.mpg.de/en). My work in [Dr. Lisa Fenk's](https://www.bi.mpg.de/2401722/fenk-page.html) group is broadly centered on mechanisms of distance estimation in _Drosophila melanogaster_, figuring out how flies use their newly discovered ability to [move their retinae](https://www.nature.com/articles/s41586-022-05317-5) to percieve depth during natural behaviours. Before starting my PhD, I completed the integrated BS-MS dual-degree program at Indian Institute of Science Education and Research [IISER](https://www.iiserpune.ac.in/) Pune, India. For my master's thesis, I worked on fruit fly escape behaviour with [Dr. Gwyneth Card](https://zuckermaninstitute.columbia.edu/gwyneth-card-phd) at Columbia University's Zuckerman Institute.
 
