@@ -5,7 +5,7 @@ permalink: /projects/
 description: Academic projects I've been involved with
 nav: true
 nav_order: 2
-display_categories:
+display_categories: [Current, Previous]
 horizontal: false
 ---
 
