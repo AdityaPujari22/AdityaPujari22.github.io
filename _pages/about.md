@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: my_profile_pic.jpg
+  image: my_profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>L 108, Max Planck Institute for Biological Intelligence</p>
