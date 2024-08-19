@@ -7,9 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-## A semi-organised list of websites/books/tools I have found interesting over the years
-
-
+## <u>A semi-organised list of websites/books/tools I have found interesting over the years</u>
+ <br />
 
 ### Courses and Lectures 
 #### Programming and Machine Learning
@@ -32,7 +31,7 @@ nav_order: 4
 #### Media/Creative
 - [Diagrams.net](https://app.diagrams.net/) - a simple online tool (with a desktop app) for making diagrams and flowcharts 
 
-
+ <br />
 
 ### Blogs and Articles
 #### Ecology and Evolution
@@ -59,8 +58,7 @@ nav_order: 4
 - [India Bioscience Columns](https://indiabioscience.org/columns)
 - [How philosophy is making me a better scientist](https://www.nature.com/articles/d41586-021-01103-x)
 
-
-
+ <br />
 
 ### Podcasts
 #### History and Philosophy
