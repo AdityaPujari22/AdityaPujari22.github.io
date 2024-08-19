@@ -1,26 +1,20 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Modelling resource competition in Castration-Resistant Prostate Cancer (CRPC)
+description: May 2021 - August 2021
+img: assets/img/3.jpg
+importance: 5
+category: Previous
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+_Supervisor: Dr. Sutirth Dey_
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A promising approach to cancer treatment is adaptive therapy, which involves incorporating 'drug holidays' in between drug administrations to prevent the tumour from developing resistance. The principle behind this therapeutic method involves competition between drug-sensitive and drug-resistant cells keeping the tumour size in check, and killing drug-sensitive cells with high drug doses causes a competitive release of resistant cells leading to a largely drug-resistant tumour.
+I built a discrete-time, discrete-space ecological model in order to study the competition for resources and space between cancer cell types. The model can be found [here](https://github.com/AdityaPujari22/Cancer-comp-strat-spatial).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -77,4 +71,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->

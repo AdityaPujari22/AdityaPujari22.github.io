@@ -1,47 +1,20 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: false
+permalink: /resources/
+title: Resources
+description:
+nav: true
 nav_order: 4
 ---
 
-## GitHub users
+## A semi-organised list of cool websites/books/tools I have found over the years
 
-{% if site.data.repositories.github_users %}
+### Blogs and Articles
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+- [eco-evolutionary dynamics](https://ecoevoevoeco.blogspot.com/)
+- [NeuroAnaTody](http://neuroanatody.com/)
+- [The well posed question and its answer - why are organisms different from machines? by Robert Rosen](http://www.people.vcu.edu/~mikuleck/PPRISS3.html)
+- [The 20% Statistician](http://daniellakens.blogspot.com/)
+- [Basic Statistics](https://garstats.wordpress.com/)
+- [Godel's Lost Letter](https://rjlipton.com/)
+- [The Thesis Whisperer](https://thesiswhisperer.com/)
