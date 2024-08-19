@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: <b>Resources</b>
+title: Resources
 description:
 nav: true
 nav_order: 4
@@ -53,7 +53,7 @@ nav_order: 4
 #### General Academic Advice (writing, research, etc.) and related
 - [The well posed question and its answer - why are organisms different from machines? by Robert Rosen](http://www.people.vcu.edu/~mikuleck/PPRISS3.html)
 - [Mathematics Is Biology's Next Microscope, Only Better; Biology Is Mathematics' Next Physics, Only Better](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020439#s4)
-- [A Calculus of Purpose](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020164)
+- [A Calculus of Purpose](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020164) - systems biologist Arthur Lander argues for the utility of computational approaches (with a combination of simulation and analytical analysis) in explaining the "why"-type questions for biological systems.
 - [Distillations Magazine](https://www.sciencehistory.org/stories/magazine/)
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
 - [Networking on the Network - A guide to Professional Skills for PhD students](https://vlsicad.ucsd.edu/Research/Advice/network.html)
