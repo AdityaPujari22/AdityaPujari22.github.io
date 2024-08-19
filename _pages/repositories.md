@@ -9,6 +9,8 @@ nav_order: 4
 
 ## A semi-organised list of websites/books/tools I have found interesting over the years
 
+
+
 ### Courses and Lectures 
 #### Programming and Machine Learning
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
@@ -29,6 +31,8 @@ nav_order: 4
 
 #### Media/Creative
 - [Diagrams.net](https://app.diagrams.net/) - a simple online tool (with a desktop app) for making diagrams and flowcharts 
+
+
 
 ### Blogs and Articles
 #### Ecology and Evolution
@@ -54,6 +58,8 @@ nav_order: 4
 - [Networking on the Network - A guide to Professional Skills for PhD students](https://vlsicad.ucsd.edu/Research/Advice/network.html)
 - [India Bioscience Columns](https://indiabioscience.org/columns)
 - [How philosophy is making me a better scientist](https://www.nature.com/articles/d41586-021-01103-x)
+
+
 
 
 ### Podcasts
