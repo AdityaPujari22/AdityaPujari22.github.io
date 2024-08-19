@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Studying BOS responses of anesthetized zebra finches
+title: BOS responses of Zebra Finches
 description: May 2022 - December 2022
 img: assets/img/3.jpg
 importance: 3

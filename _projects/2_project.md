@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drosophila escape behaviours in spatially complex environments
+title: Drosophila Escape Behaviours
 description: June 20023 - March 2024
 img: assets/img/3.jpg
 importance: 2

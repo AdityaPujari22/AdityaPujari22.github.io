@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /resources/
-title: Resources
+title: <b>Resources</b>
 description:
 nav: true
 nav_order: 4
 ---
 
-## <u>A semi-organised list of websites/books/tools I have found interesting over the years</u>
+## A semi-organised list of websites/books/tools I have found interesting over the years
  <br />
 
-### Courses and Lectures 
+### <b>Courses and Lectures</b>
 #### Programming and Machine Learning
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 - [Introduction to Machine Learning in 15 hours](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
@@ -33,7 +33,7 @@ nav_order: 4
 
  <br />
 
-### Blogs and Articles
+### <b>Blogs and Articles</b>
 #### Ecology and Evolution
 - [eco-evolutionary dynamics](https://ecoevoevoeco.blogspot.com/)
 - [Dynamic Ecology](https://dynamicecology.wordpress.com/)
@@ -44,6 +44,7 @@ nav_order: 4
 - [The Spike](https://medium.com/the-spike)
 - [Theoretical Neuroscience Rising](https://www.sciencedirect.com/science/article/pii/S0896627308008921)
 - [Marr's Three Levels: A Re-evaluation](https://www.albany.edu/~ron/papers/marrlevl.html)
+
 #### Mathematics and Statistics
 - [The 20% Statistician](http://daniellakens.blogspot.com/)
 - [Basic Statistics](https://garstats.wordpress.com/)
@@ -52,6 +53,7 @@ nav_order: 4
 #### General Academic Advice (writing, research, etc.) and related
 - [The well posed question and its answer - why are organisms different from machines? by Robert Rosen](http://www.people.vcu.edu/~mikuleck/PPRISS3.html)
 - [Mathematics Is Biology's Next Microscope, Only Better; Biology Is Mathematics' Next Physics, Only Better](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020439#s4)
+- [A Calculus of Purpose](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020164)
 - [Distillations Magazine](https://www.sciencehistory.org/stories/magazine/)
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
 - [Networking on the Network - A guide to Professional Skills for PhD students](https://vlsicad.ucsd.edu/Research/Advice/network.html)
@@ -60,7 +62,7 @@ nav_order: 4
 
  <br />
 
-### Podcasts
+### <b>Podcasts</b>
 #### History and Philosophy
 - [Fall of Civilisations](https://fallofcivilizationspodcast.com/)
 - [Empire](https://www.goalhangerpodcasts.com/empire)
@@ -85,3 +87,7 @@ nav_order: 4
 - [Hello Internet](http://www.hellointernet.fm/)
 - [Twenty Thousand Hertz](https://www.20k.org/)
 - [No Such Thing as a Fish](https://www.nosuchthingasafish.com/)
+
+ <br />
+
+### <b>Podcasts</b>

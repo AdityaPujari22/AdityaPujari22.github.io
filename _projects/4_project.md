@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Independent learning of introductory notes in juvenile Zebra Finches
+title: Learning of Introductory Notes in Zebra Finches
 description: December 2021 - August 2022
 img: assets/img/3.jpg
 importance: 4

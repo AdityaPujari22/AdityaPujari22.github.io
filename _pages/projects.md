@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: <b>Projects</b>
 permalink: /projects/
 description: Academic projects I've been involved with
 nav: true

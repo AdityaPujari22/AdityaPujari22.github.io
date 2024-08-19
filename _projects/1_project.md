@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Depth Perception in Fruit Flies
+title: Insect Depth Perception
 description: August 2024 - Present
 img: assets/img/12.jpg
 importance: 1
